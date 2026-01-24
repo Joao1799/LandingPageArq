@@ -939,6 +939,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  overflow: hidden;
 
   .background-blur {
     position: absolute;
